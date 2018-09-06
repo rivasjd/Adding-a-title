@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="ISO-8859-1">
+    <meta charset="ISO-8859-2">
     <title> this took me to long </title>
   </head>
   <body>
