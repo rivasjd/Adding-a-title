@@ -7,6 +7,6 @@
   </head>
   <body>
     <h1> water </h1>
-    <p> Japanese exambple: ご飯が熱い。</p>
+    <p> Japanese example: ご飯が熱い。</p>
   </body>
 </html>
